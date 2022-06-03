@@ -1,0 +1,20 @@
+{
+    "name": "rscape",
+    "version": "1.0.0",
+    "description": "Let's play",
+    "main": "bot.js",
+    "author": "Jezreel Julao, Adrian Ruiz",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "is-promise": "2.1.0",
+        "runescape-api": "^2.1.0"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.8.4",
+        "@babel/core": "^7.0.0",
+        "@babel/node": "^7.0.0",
+        "@babel/preset-env": "^7.0.0",
+        "@babel/register": "^7.0.0",
+        "eslint": "^6.8.0"
+    }
+}

@@ -1,0 +1,13 @@
+Creating the bot:
+https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
+
+RS API:
+https://runescape.wiki/w/Application_programming_interface
+
+
+
+logic:
+totalSkillXp is the XP at time of log-in or log-out?
+dailySkillXp = totalSkillXp
+
+install eslint and babel for module issues?
